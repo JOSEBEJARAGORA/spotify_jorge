@@ -1,0 +1,70 @@
+.header{
+    margin-top:-195px;
+    margin-left: -159px;
+    width:440px;
+    
+}
+.nav{
+    margin-top:15px;
+    margin-left:195px;
+    width:1350px;
+    height: 158px;
+    background:black;
+    color:white;
+}
+.direc{
+    height:12px;
+    margin-top:124px;
+    margin-left:24px;
+    border:2px solid black;
+    width: 12px;
+}
+body{
+    background: black;
+    margin: 0px 90px;
+}
+.foto{
+    width:250px;
+    height:200px;
+}
+.luna{
+    margin-top:25px;
+    
+    margin-left: 230px;
+    background: black;
+    padding-left:12px;
+    border:1px solid white;
+    width:950px;
+}
+.img2{
+    padding-top:12px;
+}
+.section{
+    
+    text-decoration: none;
+    
+    width:200px;
+    height: 700px;
+
+    margin-top:-597px;
+    margin-left: 12px;
+    
+}
+.losa{
+    list-style:none;
+    color:white; 
+    margin-top:12px;
+}
+.cuerpo{
+    margin-top:47px;
+    padding-bottom:-412px;   
+}
+.rosa{
+    margin-top:52px;
+}
+p{
+    margin-top:-15px;
+}
+
+
+
